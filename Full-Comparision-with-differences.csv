@@ -1,0 +1,1013 @@
+Service,Feature,Status
+AWS Cloud Map,DiscoverInstances operation per account steady rate,Available in both
+AWS Cloud Map,DiscoverInstances operation per account burst rate,Available in both
+AWS Cloud Map,Namespaces per Region,Available in both
+AWS Cloud Map,DiscoverInstancesRevision operation per account rate,Available in both
+Access Analyzer,Organization level analyzer,"Available in source, Not Available in target"
+Access Analyzer,Archive rules per analyzer,"Available in source, Not Available in target"
+Access Analyzer,CloudTrail log files processed per policy generation,"Available in source, Not Available in target"
+Access Analyzer,Access previews per analyzer per hour,"Available in source, Not Available in target"
+Access Analyzer,Policy generation CloudTrail time range,"Available in source, Not Available in target"
+Access Analyzer,Policy generation CloudTrail data size,"Available in source, Not Available in target"
+Access Analyzer,Concurrent policy generations,"Available in source, Not Available in target"
+Access Analyzer,Account level analyzer,"Available in source, Not Available in target"
+Access Analyzer,Policy generations per day,"Available in source, Not Available in target"
+AWS Private Certificate Authority,Number of revoked private certificates per CA,Available in both
+AWS Private Certificate Authority,Rate of GetPolicy requests,"Available in source, Not Available in target"
+AWS Private Certificate Authority,Rate of DescribeCertificateAuthorityAuditReport requests,"Available in source, Not Available in target"
+AWS Private Certificate Authority,Rate of ImportCertificateAuthorityCertificate requests,Available in both
+AWS Private Certificate Authority,Rate of CreateCertificateAuthorityAuditReport requests,Available in both
+AWS Private Certificate Authority,Rate of IssueCertificate requests,"Available in source, Not Available in target"
+AWS Private Certificate Authority,Rate of DeletePolicy requests,"Available in source, Not Available in target"
+AWS Private Certificate Authority,Rate of GetCertificate requests,"Available in source, Not Available in target"
+AWS Private Certificate Authority,Rate of PutPolicy requests,Available in both
+Amazon Managed Workflows for Apache Airflow,Environments per account per Region,"Available in source, Not Available in target"
+Amazon Managed Workflows for Apache Airflow,Workers per environment,"Available in source, Not Available in target"
+AWS Amplify,Environment cache artifact size,"Available in source, Not Available in target"
+AWS Amplify,Webhooks per app,"Available in source, Not Available in target"
+AWS Amplify,Build artifact size,"Available in source, Not Available in target"
+AWS Amplify,Apps,"Available in source, Not Available in target"
+AWS Amplify,Cache artifact size,"Available in source, Not Available in target"
+AWS Amplify,Maximum app creations per hour,"Available in source, Not Available in target"
+AWS Amplify,Subdomains per domain,"Available in source, Not Available in target"
+AWS Amplify,Manual deploy ZIP file size,"Available in source, Not Available in target"
+AWS Amplify,Branches per app,"Available in source, Not Available in target"
+AWS Amplify,Concurrent jobs,"Available in source, Not Available in target"
+AWS Amplify,Domains per app,"Available in source, Not Available in target"
+Amazon API Gateway,Stage Variable Key Length,"Available in source, Not Available in target"
+Amazon API Gateway,Maximum API caching TTL,"Available in source, Not Available in target"
+Amazon API Gateway,Maximum integration timeout in milliseconds,"Available in source, Not Available in target"
+Amazon API Gateway,WebSocket frame size,"Available in source, Not Available in target"
+Amazon API Gateway,WebSocket message payload size,"Available in source, Not Available in target"
+Amazon API Gateway,Resources/Routes per REST/WebSocket API,"Available in source, Not Available in target"
+Amazon API Gateway,VPC links,"Available in source, Not Available in target"
+Amazon API Gateway,Maximum resource policy size in bytes,"Available in source, Not Available in target"
+Amazon API Gateway,Subnets per VPC link(V2),"Available in source, Not Available in target"
+Amazon API Gateway,API Payload Size,"Available in source, Not Available in target"
+Amazon API Gateway,Edge-optimized APIs,"Available in source, Not Available in target"
+Amazon API Gateway,Throttle burst rate,"Available in source, Not Available in target"
+Amazon API Gateway,Stage variables per stage,"Available in source, Not Available in target"
+Amazon API Gateway,AWS Lambda authorizer result size,"Available in source, Not Available in target"
+Amazon API Gateway,WebSocket Idle Connection Timeout,"Available in source, Not Available in target"
+Amazon API Gateway,Custom Domain Names,"Available in source, Not Available in target"
+Amazon API Gateway,WebSocket new connections burst rate,"Available in source, Not Available in target"
+Amazon API Gateway,Maximum Combined Header Size,"Available in source, Not Available in target"
+Amazon API Gateway,Private APIs,"Available in source, Not Available in target"
+Amazon Connect Application Integrations,Data integration associations per data integration,"Available in source, Not Available in target"
+Amazon Connect Application Integrations,Event integration associations per event integration,"Available in source, Not Available in target"
+Amazon Connect Application Integrations,Event integrations per Region,"Available in source, Not Available in target"
+Amazon Connect Application Integrations,Data integrations per Region,"Available in source, Not Available in target"
+AWS AppConfig,Configuration size limit in AWS AppConfig hosted configuration store,Available in both
+AWS AppConfig,Maximum number of environments per application,Available in both
+AWS AppConfig,Maximum number of configuration profiles per application,Available in both
+AWS AppConfig,Maximum number of deployment strategies,Available in both
+AWS AppConfig,Deployment size limit,Available in both
+AWS AppConfig,Maximum number of applications,Available in both
+Application Auto Scaling,Step adjustments per step scaling policy,Available in both
+Application Auto Scaling,Scaling policies per scalable target,Available in both
+Application Auto Scaling,Scalable targets for AppStream,"Available in source, Not Available in target"
+Application Auto Scaling,Scalable targets for DynamoDB,Available in both
+Application Auto Scaling,Scalable targets for Amazon Keyspaces,"Available in source, Not Available in target"
+Application Auto Scaling,Scalable targets for EMR,Available in both
+Application Auto Scaling,Scalable targets for Comprehend,"Available in source, Not Available in target"
+Application Auto Scaling,Scalable targets for RDS,"Available in source, Not Available in target"
+Application Auto Scaling,Scalable targets for Amazon MSK,"Available in source, Not Available in target"
+Application Auto Scaling,Scalable targets for EC2,"Available in source, Not Available in target"
+Application Auto Scaling,Scheduled actions per scalable target,Available in both
+Application Auto Scaling,Scalable targets for ECS,"Available in source, Not Available in target"
+Application Auto Scaling,Scalable targets for custom resources,"Available in source, Not Available in target"
+Application Auto Scaling,Scalable targets for Amazon ElastiCache,Available in both
+Application Auto Scaling,Scalable targets for Lambda,"Available in source, Not Available in target"
+Application Auto Scaling,Scalable targets for SageMaker,"Available in source, Not Available in target"
+AWS App Mesh,Connected Envoy processes per virtual node,"Available in source, Not Available in target"
+AWS App Mesh,Meshes per account,"Available in source, Not Available in target"
+AWS App Mesh,Backends per virtual node,"Available in source, Not Available in target"
+AWS App Mesh,Virtual nodes per mesh,"Available in source, Not Available in target"
+AWS App Mesh,Weighted targets per route,"Available in source, Not Available in target"
+AWS App Mesh,Routes per virtual router,"Available in source, Not Available in target"
+AWS App Mesh,Virtual services per mesh,"Available in source, Not Available in target"
+AWS App Mesh,Gateway routes per virtual gateway,"Available in source, Not Available in target"
+AWS App Mesh,Virtual gateways per mesh,"Available in source, Not Available in target"
+AWS App Mesh,Connected Envoy processes per virtual gateway,"Available in source, Not Available in target"
+AWS App Mesh,Virtual routers per mesh,"Available in source, Not Available in target"
+AWS App Runner,Services,"Available in source, Not Available in target"
+AWS App Runner,VPC ingress connections,"Available in source, Not Available in target"
+AWS App Runner,Connections,"Available in source, Not Available in target"
+AWS App Runner,Observability configurations,"Available in source, Not Available in target"
+AWS App Runner,VPC connectors,"Available in source, Not Available in target"
+AWS App Runner,Auto scaling configurations,"Available in source, Not Available in target"
+AWS AppSync,Subscriptions per connection,Available in both
+AWS AppSync,Rate of request tokens,Available in both
+Amazon Athena,Active DML queries,Available in both
+Amazon Athena,Active DDL queries,Available in both
+Amazon Athena,Apache Spark DPU concurrency,"Available in source, Not Available in target"
+Amazon Athena,DDL query timeout,Available in both
+Amazon Athena,DML query timeout,Available in both
+AWS Audit Manager,Custom controls,"Available in source, Not Available in target"
+AWS Audit Manager,Custom frameworks,"Available in source, Not Available in target"
+AWS Audit Manager,Running assessments,"Available in source, Not Available in target"
+Amazon EC2 Auto Scaling,Launch configurations per region,Available in both
+Amazon EC2 Auto Scaling,Auto Scaling groups per region,Available in both
+AWS Auto Scaling Plans,Scaling plans,"Available in source, Not Available in target"
+AWS Batch,Submitted state jobs limit,Available in both
+AWS Batch,Transactions per second for SubmitJob limit,Available in both
+AWS Batch,Compute environment limit,Available in both
+AWS Batch,Share identifiers per job queue limit.,Available in both
+AWS Batch,Job definition size limit,Available in both
+AWS Batch,Compute environments per job queue limit.,Available in both
+AWS Batch,Job queue limit,Available in both
+AWS Batch,Job dependencies limit,Available in both
+AWS Batch,Job payload size limit,Available in both
+AWS Batch,Maximum array size limit,Available in both
+Amazon Keyspaces (for Apache Cassandra),Keyspaces per region,"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Max concurrent table restores using Point-in-time Recovery (PITR),"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Max row size,"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Max Schema size,"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Account-level read throughput quota (Provisioned mode),"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Max amount of data restored using Point-in-time Recovery (PITR),"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Max clustering key size,"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Max static data per logical partition,"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Table-level write throughput quota,"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Max partition key size,"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Account-level write throughput quota (Provisioned mode),"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Tables per region,"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Max subqueries per IN SELECT statement,"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Concurrent DDL operations,"Available in source, Not Available in target"
+Amazon Keyspaces (for Apache Cassandra),Table-level read throughput quota,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - ListAttendees API burst rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - All meeting management API burst rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - DeleteMeeting API burst rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - TagResource API rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - BatchUpdateAttendeeCapabilitiesExcept API burst rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - UnTagResource API rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - CreateMeetingWithAttendees API rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - BatchCreateAttendees API rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - CreateAttendee API burst rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - Replica meetings per primary meeting,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - ListTagsForResource API rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - ListMeetings API burst rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - All meeting management API rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - Concurrent meeting quota,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - CreateMeeting API burst rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon  Chime SDK meetings - ListAttendees API rate in requests per second,"Available in source, Not Available in target"
+Amazon Chime,Amazon Chime SDK meetings - TagResource API burst rate in requests per second,"Available in source, Not Available in target"
+AWS Cloud9,EC2 development environments for this account,"Available in source, Not Available in target"
+AWS Cloud9,SSH development environments for this account,"Available in source, Not Available in target"
+AWS Cloud9,EC2 development environments for this user,"Available in source, Not Available in target"
+AWS Cloud9,SSH development environments for this user,"Available in source, Not Available in target"
+AWS CloudFormation,Stack instance operations per administrator account,Available in both
+AWS CloudFormation,Stack instances per stack set,Available in both
+AWS CloudFormation,Stack sets per administrator account,Available in both
+AWS CloudFormation,Queued operations per stack set,Available in both
+AWS CloudFormation,Output count in CloudFormation template,Available in both
+AWS CloudFormation,Stack count,Available in both
+AWS CloudHSM,Clusters per AWS Region and AWS account,Available in both
+AWS CloudHSM,HSMs per AWS Region and AWS account,Available in both
+AWS CodeBuild,Concurrently running builds for Linux Lambda/2GB environment,"Available in source, Not Available in target"
+AWS CodeBuild,Concurrently running builds for Linux/2XLarge environment,"Available in source, Not Available in target"
+AWS CodeBuild,Concurrently running builds for ARM/Large environment,Available in both
+AWS CodeBuild,Concurrently running builds for Linux Lambda/4GB environment,"Available in source, Not Available in target"
+AWS CodeBuild,Build projects,Available in both
+AWS CodeBuild,Concurrently running builds for ARM Lambda/4GB environment,"Available in source, Not Available in target"
+AWS CodeBuild,Concurrently running builds for ARM Lambda/1GB environment,"Available in source, Not Available in target"
+AWS CodeBuild,Concurrently running builds for Linux Lambda/10GB environment,"Available in source, Not Available in target"
+AWS CodeBuild,Concurrently running builds for Linux/XLarge environment,Available in both
+AWS CodeBuild,Concurrently running builds for ARM/Small environment,Available in both
+AWS CodeBuild,Concurrently running builds for Linux Lambda/8GB environment,"Available in source, Not Available in target"
+AWS CodeBuild,Concurrently running builds for Linux/Medium environment,Available in both
+AWS CodeBuild,Concurrently running builds for ARM Lambda/2GB environment,"Available in source, Not Available in target"
+AWS CodeBuild,Concurrently running builds for Linux/Small environment,Available in both
+AWS CodeBuild,Concurrently running builds for ARM Lambda/10GB environment,"Available in source, Not Available in target"
+AWS CodeBuild,Concurrently running builds for Linux Lambda/1GB environment,"Available in source, Not Available in target"
+AWS CodeBuild,Concurrently running builds for ARM Lambda/8GB environment,"Available in source, Not Available in target"
+AWS CodeBuild,Concurrently running builds for Linux/Large environment,Available in both
+AWS CodeDeploy,Applications associated per account per region,Available in both
+AWS CodeDeploy,Minutes a blue/green deployment can wait after a successful deployment before terminating instances from the original deployment,"Available in source, Not Available in target"
+AWS CodeDeploy,Size of deployment group name,Available in both
+AWS CodeDeploy,Tags in a deployment group,"Available in source, Not Available in target"
+AWS CodeDeploy,Concurrent deployments per account,Available in both
+AWS CodeDeploy,Minutes until a deployment fails if a lifecycle event doesn't start,"Available in source, Not Available in target"
+AWS CodeDeploy,Number of listeners for a traffic route during an Amazon ECS deployment,Available in both
+AWS CodeDeploy,Number of instances that can be passed to the BatchGetOnPremisesInstances API action,Available in both
+AWS CodeDeploy,Traffic that can be shifted in one increment during an AWS Lambda deployment,"Available in source, Not Available in target"
+AWS CodeDeploy,Event notification triggers in a deployment group,"Available in source, Not Available in target"
+AWS CodeDeploy,EC2/On-Premises in-place deployment run in hours,Available in both
+AWS CodeDeploy,AWS Lambda deployment run in hours,Available in both
+AWS CodeDeploy,Deployment groups associated with a single application,Available in both
+AWS CodeDeploy,Auto Scaling groups in a deployment group,Available in both
+AWS CodeDeploy,Concurrent deployments per deployment group,Available in both
+AWS CodeDeploy,Number of deployment groups that can be associated with an Amazon ECS service,"Available in source, Not Available in target"
+AWS CodeDeploy,Size of tag key,Available in both
+AWS CodeDeploy,Hours between the completion of a deployment and the termination of the original instances during an EC2/On-Premises blue/green deployment,Available in both
+AWS CodeDeploy,Instances count per deployment,Available in both
+AWS CodeDeploy,Number of instances used by concurrent deployments that are in progress per account,Available in both
+AWS CodePipeline,Total stages per pipeline,"Available in source, Not Available in target"
+AWS CodePipeline,Total pipelines with change detection set to periodically checking for source changes,Available in both
+AWS CodePipeline,Minimum stages per pipeline,Available in both
+AWS CodePipeline,Total pipelines,Available in both
+AWS CodePipeline,Minimum actions,Available in both
+AWS CodePipeline,Total actions per stage,Available in both
+AWS CodePipeline,Total webhooks,"Available in source, Not Available in target"
+Amazon Cognito Federated Identities,Rate of UntagResource requests,"Available in source, Not Available in target"
+Amazon Cognito Federated Identities,Rate of ListTagsForResource requests,"Available in source, Not Available in target"
+Amazon Cognito Federated Identities,Rate of ListIdentities requests,"Available in source, Not Available in target"
+Amazon Cognito Federated Identities,Rate of GetOpenIdTokenForDeveloperIdentity requests,"Available in source, Not Available in target"
+Amazon Cognito Federated Identities,Rate of GetOpenIdToken requests,"Available in source, Not Available in target"
+Amazon Cognito Federated Identities,Rate of GetId requests,"Available in source, Not Available in target"
+Amazon Cognito Federated Identities,Rate of GetCredentialsForIdentity requests,"Available in source, Not Available in target"
+Amazon Cognito Federated Identities,Rate of TagResource requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserAccountRecovery requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserPoolResourceUpdate requests per account,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserList requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserResourceUpdate requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserUpdate requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,User import jobs per user pool,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserResourceRead requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserPoolRead requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserPoolUpdate requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserRead requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserFederation requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserCreation requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Resource servers per user pool,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserAuthentication requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Identity providers per user pool,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserPoolClientUpdate requests per account,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserPoolResourceRead requests per account,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserToken requests,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Apps per user pool,"Available in source, Not Available in target"
+Amazon Cognito User Pools,Rate of UserPoolClientRead requests per account,"Available in source, Not Available in target"
+Amazon Comprehend,CreateDocumentClassifier throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,Endpoints max active endpoints,"Available in source, Not Available in target"
+Amazon Comprehend,DetectPiiEntities max active jobs,"Available in source, Not Available in target"
+Amazon Comprehend,DetectEvents max active jobs,"Available in source, Not Available in target"
+Amazon Comprehend,StopTrainingDocumentClassifier throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,ListTagsForResource throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,CreateFlywheel max active flywheels,"Available in source, Not Available in target"
+Amazon Comprehend,ListEntityRecognizers throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,StartDocumentClassificationJob throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,ListDominantLanguageDetectionJobs throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,StartFlywheelIteration max concurrent flywheel iterations,"Available in source, Not Available in target"
+Amazon Comprehend,EntityRecognizer max active jobs,"Available in source, Not Available in target"
+Amazon Comprehend,DescribeEntitiesDetectionJob throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,StartSentimentDetectionJob throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,StopSentimentDetectionJob throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,Datasets max concurrent creates,"Available in source, Not Available in target"
+Amazon Comprehend,StopTrainingEntityRecognizer throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,MaxTrainDatasets per flywheel,"Available in source, Not Available in target"
+Amazon Comprehend,StopEntitiesDetectionJob throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Comprehend,DescribeTopicsDetectionJob throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Connect,Rate of DescribeQueue API requests,"Available in source, Not Available in target"
+Amazon Connect,Amazon Connect instance count,"Available in source, Not Available in target"
+Amazon Connect,Rate of UntagContact API requests,"Available in source, Not Available in target"
+Amazon Connect,Rate of ListPredefinedAttributes API requests,"Available in source, Not Available in target"
+Amazon Connect,Rate of DeleteRule API requests,"Available in source, Not Available in target"
+Amazon Connect,Rate of ListTaskTemplates API requests,"Available in source, Not Available in target"
+AWS Glue DataBrew,Concurrent jobs per AWS account,"Available in source, Not Available in target"
+AWS Glue DataBrew,Projects per AWS account,"Available in source, Not Available in target"
+AWS Glue DataBrew,Versions per recipe,"Available in source, Not Available in target"
+AWS Glue DataBrew,Datasets per AWS account,"Available in source, Not Available in target"
+AWS Glue DataBrew,Open projects per AWS account,"Available in source, Not Available in target"
+AWS Glue DataBrew,Rules per ruleset,"Available in source, Not Available in target"
+AWS Glue DataBrew,Rulesets per AWS account,"Available in source, Not Available in target"
+AWS Glue DataBrew,Jobs per AWS account,"Available in source, Not Available in target"
+AWS Glue DataBrew,Schedules per AWS account,"Available in source, Not Available in target"
+AWS Glue DataBrew,Rulesets per dataset,"Available in source, Not Available in target"
+AWS Glue DataBrew,Recipes per AWS account,"Available in source, Not Available in target"
+Amazon Data Lifecycle Manager,Policies per Region,Available in both
+Amazon Data Lifecycle Manager,Target accounts per sharing rule,Available in both
+AWS Database Migration Service (AWS DMS),Certificate count,"Available in source, Not Available in target"
+AWS Database Migration Service (AWS DMS),Serverless replications,Available in both
+AWS Database Migration Service (AWS DMS),Task count,"Available in source, Not Available in target"
+AWS Database Migration Service (AWS DMS),Replication instances,Available in both
+AWS Database Migration Service (AWS DMS),Total storage,Available in both
+ElasticDisasterRecovery,Max source servers in a single Job,Available in both
+ElasticDisasterRecovery,Max source servers in all Jobs,Available in both
+ElasticDisasterRecovery,Max concurrent Jobs per source server,"Available in source, Not Available in target"
+ElasticDisasterRecovery,Concurrent jobs in progress,Available in both
+ElasticDisasterRecovery,Max number of source networks per AWS account,Available in both
+ElasticDisasterRecovery,Max Total replicating source servers Per AWS Account,"Available in source, Not Available in target"
+ElasticDisasterRecovery,Max number of launch configuration templates per AWS account,Available in both
+Amazon DynamoDB,Write throughput limit for DynamoDB Streams (Provisioned mode),Available in both
+Amazon DynamoDB,Maximum number of tables,Available in both
+Amazon DynamoDB,Provisioned capacity decreases per day,Available in both
+Amazon DynamoDB,Global Secondary Indexes per table,Available in both
+Amazon DynamoDB,Concurrent control plane operations,Available in both
+Amazon DynamoDB,Account-level read throughput limit (Provisioned mode),Available in both
+Amazon DynamoDB,Account-level write throughput limit (Provisioned mode),Available in both
+Amazon DynamoDB,Table-level read throughput limit,Available in both
+Amazon DynamoDB,Table-level write throughput limit,Available in both
+Amazon Elastic Block Store (Amazon EBS),Pending snapshots per account,Available in both
+Amazon Elastic Block Store (Amazon EBS),GetSnapshotBlock requests per account,"Available in source, Not Available in target"
+Amazon Elastic Block Store (Amazon EBS),CompleteSnapshot requests per account,"Available in source, Not Available in target"
+Amazon Elastic Block Store (Amazon EBS),ListSnapshotBlocks requests per account,Available in both
+Amazon Elastic Block Store (Amazon EBS),PutSnapshotBlock requests per account,"Available in source, Not Available in target"
+Amazon Elastic Block Store (Amazon EBS),StartSnapshot requests per account,Available in both
+Amazon Elastic Block Store (Amazon EBS),ListChangedBlocks requests per account,Available in both
+Amazon Elastic Block Store (Amazon EBS),"Storage modifications for General Purpose SSD (gp2) volumes, in TiB",Available in both
+Amazon Elastic Block Store (Amazon EBS),IOPS for Provisioned IOPS SSD (io2) volumes,"Available in source, Not Available in target"
+Amazon Elastic Block Store (Amazon EBS),"Storage modifications for Cold HDD (sc1) volumes, in TiB",Available in both
+Amazon Elastic Block Store (Amazon EBS),In-progress snapshot archives per account,"Available in source, Not Available in target"
+Amazon Elastic Block Store (Amazon EBS),Fast snapshot restore,"Available in source, Not Available in target"
+Amazon Elastic Block Store (Amazon EBS),IOPS modifications for Provisioned IOPS SSD (io2) volumes,"Available in source, Not Available in target"
+Amazon Elastic Block Store (Amazon EBS),"Storage for Throughput Optimized HDD (st1) volumes, in TiB","Available in source, Not Available in target"
+Amazon Elastic Block Store (Amazon EBS),"Storage for Cold HDD (sc1) volumes, in TiB",Available in both
+Amazon Elastic Block Store (Amazon EBS),"Storage modifications for Provisioned IOPS SSD (io2) volumes, in TiB","Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated m5 Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated c7g Hosts,Available in both
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated c6g Hosts,Available in both
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated c5 Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated m7i Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated r5 Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),All DL Spot Instance Requests,Available in both
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated c6i Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated p2 Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated i2 Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated c4 Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),All X Spot Instance Requests,Available in both
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated c5a Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated g4dn Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated r5n Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Running Dedicated t3 Hosts,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Routes per transit gateway,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),New Reserved Instances per month,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Verified Access Groups,"Available in source, Not Available in target"
+Amazon Elastic Compute Cloud (Amazon EC2),Public AMIs,"Available in source, Not Available in target"
+IPAM,IPAMs per Region,Available in both
+IPAM,IPAM pool depth,Available in both
+IPAM,CIDRs per IPAM pool,Available in both
+IPAM,Resource discovery associations per IPAM,Available in both
+IPAM,Pools per IPAM scope,Available in both
+IPAM,Scopes per IPAM,Available in both
+EC2 Fast Launch,Parallel instance launches,Available in both
+Amazon Elastic Container Registry (Amazon ECR),Pull through cache rules per registry,Available in both
+Amazon Elastic Container Registry (Amazon ECR),Rate of GetAuthorizationToken requests,Available in both
+Amazon Elastic Container Registry (Amazon ECR),Rate of GetDownloadUrlForLayer requests,Available in both
+Amazon Elastic Container Registry (Amazon ECR),Rate of CompleteLayerUpload requests,Available in both
+Amazon Elastic Container Registry (Amazon ECR),Rate of UploadLayerPart requests,Available in both
+Amazon Elastic Container Registry (Amazon ECR),Rate of BatchCheckLayerAvailability requests,Available in both
+Amazon Elastic Container Registry (Amazon ECR),Rate of InitiateLayerUpload requests,Available in both
+Amazon Elastic Container Registry (Amazon ECR),Rate of PutImage requests,Available in both
+Amazon Elastic Container Registry (Amazon ECR),Rate of BatchGetImage requests,Available in both
+Amazon Elastic Kubernetes Service (Amazon EKS),EKS Anywhere Enterprise Subscriptions,Available in both
+Amazon Elastic Kubernetes Service (Amazon EKS),Public endpoint access CIDR ranges per cluster,Available in both
+Amazon Elastic Kubernetes Service (Amazon EKS),Selectors per Fargate profile,Available in both
+Amazon Elastic Kubernetes Service (Amazon EKS),Managed node groups per cluster,Available in both
+Amazon Elastic Kubernetes Service (Amazon EKS),Registered clusters,Available in both
+Amazon Elastic Kubernetes Service (Amazon EKS),Clusters,Available in both
+Amazon Elastic Kubernetes Service (Amazon EKS),Label pairs per Fargate profile selector,Available in both
+Amazon Elastic Kubernetes Service (Amazon EKS),Fargate profiles per cluster,Available in both
+Amazon Elastic Kubernetes Service (Amazon EKS),Nodes per managed node group,Available in both
+Amazon Elastic Kubernetes Service (Amazon EKS),Control plane security groups per cluster,Available in both
+Amazon Elastic File System (EFS),Provisioned throughput,Available in both
+Amazon Elastic File System (EFS),File size,"Available in source, Not Available in target"
+Amazon Elastic File System (EFS),Minimum wait time between Throughput mode changes,Available in both
+Amazon Elastic File System (EFS),Open files per NFS client,Available in both
+Amazon Elastic File System (EFS),Locks across unique file/process pairs,Available in both
+Amazon Elastic File System (EFS),File system name length,Available in both
+Amazon Elastic File System (EFS),Security groups per mount target,"Available in source, Not Available in target"
+Amazon Elastic File System (EFS),Mount targets per Availability Zone,Available in both
+Amazon Elastic File System (EFS),Directory depth,Available in both
+Elastic Load Balancing (ELB),Certificates per Application Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Condition Wildcards per Rule,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Rules per Application Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Listeners per Application Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Network Load Balancers per Region,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Targets per Availability Zone per Network Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Targets per Application Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Target Groups per Application Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Targets per Network Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Network Load Balancer ENIs per VPC,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Targets per Target Group per Region,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Registered Instances per Classic Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Target Groups per Region,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Listeners per Classic Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Target Groups per Action per Application Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Listeners per Network Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Application Load Balancers per Region,Available in both
+Elastic Load Balancing (ELB),Certificates per Network Load Balancer,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Condition Values per Rule,"Available in source, Not Available in target"
+Elastic Load Balancing (ELB),Classic Load Balancers per Region,Available in both
+Amazon EMR,Replenishment rate of AddInstanceFleet calls,"Available in source, Not Available in target"
+Amazon EMR,The maximum number of TerminateJobFlows API requests that you can make per second.,"Available in source, Not Available in target"
+Amazon EMR,Replenishment rate of ModifyInstanceGroups calls,"Available in source, Not Available in target"
+Amazon EMR,The maximum number of AddTags API requests that you can make per second.,"Available in source, Not Available in target"
+Amazon EMR,The maximum rate at which your bucket replenishes for all EMR operations.,"Available in source, Not Available in target"
+Amazon EMR,Replenishment rate of SetVisibleToAllUsers calls,"Available in source, Not Available in target"
+Amazon EMR,EMR WAL workspaces,"Available in source, Not Available in target"
+Amazon EMR,Replenishment rate of ModifyCluster calls,"Available in source, Not Available in target"
+Amazon EMR,Replenishment rate of DescribeCluster calls,"Available in source, Not Available in target"
+Amazon EMR,The maximum number of active clusters can be run at the same time,"Available in source, Not Available in target"
+Amazon EMR,Replenishment rate of RemoveTags calls,"Available in source, Not Available in target"
+Amazon EMR,Replenishment rate of ListBootstrapActions calls,"Available in source, Not Available in target"
+Amazon EMR,The maximum number of SetTerminationProtection API requests that you can make per second.,"Available in source, Not Available in target"
+Amazon EMR,The maximum number of DescribeSecurityConfiguration API requests that you can make per second.,"Available in source, Not Available in target"
+Amazon EMR,The maximum number of RunJobFlow API requests that you can make per second.,"Available in source, Not Available in target"
+Amazon EMR,Replenishment rate of ModifyInstanceFleet calls,"Available in source, Not Available in target"
+Amazon EMR,The maximum number of PutAutoScalingPolicy API requests that you can make per second.,"Available in source, Not Available in target"
+Amazon EMR,The maximum number of ModifyInstanceFleet API requests that you can make per second.,"Available in source, Not Available in target"
+Amazon EMR,The maximum number of DescribeStep API requests that you can make per second.,"Available in source, Not Available in target"
+Amazon EMR,The maximum number of ModifyCluster API requests that you can make per second.,"Available in source, Not Available in target"
+Amazon EMR Serverless,Max concurrent vCPUs per account,"Available in source, Not Available in target"
+Amazon OpenSearch Service,Instances per domain (T2 instance type),"Available in source, Not Available in target"
+Amazon OpenSearch Service,Instances per domain,"Available in source, Not Available in target"
+Amazon OpenSearch Service,Dedicated master instances per domain,"Available in source, Not Available in target"
+Amazon OpenSearch Service,Domains per Region,"Available in source, Not Available in target"
+Amazon OpenSearch Service,Warm instances per domain,"Available in source, Not Available in target"
+Amazon EventBridge (CloudWatch Events),Event pattern size,Available in both
+Amazon EventBridge (CloudWatch Events),Throttle limit in transactions per second,Available in both
+Amazon EventBridge (CloudWatch Events),Rate of invocations per API destination,"Available in source, Not Available in target"
+Amazon EventBridge (CloudWatch Events),CreateEndpoint throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon EventBridge (CloudWatch Events),DeleteEndpoint throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon EventBridge (CloudWatch Events),Event bus policy size,Available in both
+Amazon EventBridge (CloudWatch Events),Number of rules,Available in both
+Amazon EventBridge (CloudWatch Events),Endpoints,"Available in source, Not Available in target"
+Amazon EventBridge (CloudWatch Events),Event buses,Available in both
+Amazon EventBridge (CloudWatch Events),Targets per rule,Available in both
+AWS Fargate,Fargate Spot vCPU resource count,Available in both
+AWS Fargate,Fargate On-Demand vCPU resource count,Available in both
+Amazon Kinesis Data Firehose,Delivery streams,"Available in source, Not Available in target"
+AWS Fault Injection Service (FIS),Target Subnets for aws:network:disrupt-connectivity,"Available in source, Not Available in target"
+AWS Fault Injection Service (FIS),Target Tasks for aws:ecs:task-kill-process,"Available in source, Not Available in target"
+AWS Fault Injection Service (FIS),Target ReplicationGroups for aws:elasticache:interrupt-cluster-az-power,"Available in source, Not Available in target"
+AWS Fault Injection Service (FIS),Target Pods for aws:eks:pod-io-stress,"Available in source, Not Available in target"
+AWS Fault Injection Service (FIS),Target account configurations per experiment template,"Available in source, Not Available in target"
+AWS Fault Injection Service (FIS),Target Tasks for aws:ecs:task-network-packet-loss,"Available in source, Not Available in target"
+AWS Fault Injection Service (FIS),Target Tasks for aws:ecs:task-network-latency,"Available in source, Not Available in target"
+AWS Fault Injection Service (FIS),Target Auto Scaling groups for aws:ec2:asg-insufficient-instance-capacity-error,"Available in source, Not Available in target"
+AWS Fault Injection Service (FIS),Target Subnets for aws:network:route-table-disrupt-cross-region-connectivity,"Available in source, Not Available in target"
+AWS Fault Injection Service (FIS),Target Pods for aws:eks:pod-cpu-stress,"Available in source, Not Available in target"
+Amazon Forecast,Maximum number of backtest windows,"Available in source, Not Available in target"
+Amazon Forecast,Maximum number of columns in a target time series dataset,"Available in source, Not Available in target"
+Amazon Forecast,Maximum number of tags you can add to a resource,"Available in source, Not Available in target"
+Amazon Forecast,Maximum number of predictor backtest export jobs,"Available in source, Not Available in target"
+Amazon Forecast,The maximum number of What-if Analyses,"Available in source, Not Available in target"
+Amazon FSx,ONTAP SSD storage capacity,"Available in source, Not Available in target"
+Amazon FSx,ONTAP throughput capacity,Available in both
+Amazon FSx,Windows HDD storage capacity,Available in both
+Amazon FSx,Windows throughput capacity,"Available in source, Not Available in target"
+Amazon FSx,Lustre Persistent HDD storage capacity (per file system),Available in both
+Amazon FSx,Lustre Scratch file systems,Available in both
+Amazon FSx,OpenZFS backups,Available in both
+Amazon FSx,ONTAP SSD IOPS,Available in both
+Amazon FSx,Lustre Scratch storage capacity,Available in both
+Amazon FSx,Windows total SSD IOPS,Available in both
+Amazon FSx,Windows backups,Available in both
+Amazon FSx,Lustre Persistent_1 file systems,Available in both
+Amazon FSx,ONTAP backups,Available in both
+Amazon FSx,OpenZFS throughput capacity,Available in both
+Amazon FSx,OpenZFS SSD storage capacity,Available in both
+Amazon FSx,Windows file systems,Available in both
+Amazon FSx,Lustre backups,Available in both
+Amazon FSx,OpenZFS SSD storage capacity (per file system),Available in both
+Amazon FSx,Lustre Persistent_1 storage capacity,Available in both
+Amazon FSx,ONTAP file systems,Available in both
+Amazon Location Service (Amazon Location),Rate of CreateKey API requests,"Available in source, Not Available in target"
+Amazon Location Service (Amazon Location),Rate of CreateMap API requests,"Available in source, Not Available in target"
+Amazon Location Service (Amazon Location),Rate of UpdateTracker API requests,"Available in source, Not Available in target"
+Amazon Location Service (Amazon Location),Rate of GetMapTile API requests,"Available in source, Not Available in target"
+Amazon Location Service (Amazon Location),Rate of UpdateKey API requests,"Available in source, Not Available in target"
+AWS Glue,Number of crawlers running concurrently per account,"Available in source, Not Available in target"
+AWS Glue,Maximum number of in-flight completion requests allowed per account,Available in both
+AWS Glue,Max spare compute capacity consumed in data processing units (DPUs) per account.,"Available in source, Not Available in target"
+AWS Glue,Max DPUs per dev endpoint,"Available in source, Not Available in target"
+AWS Glue,Max partitions per account,Available in both
+AWS Glue,Max security configurations per account,Available in both
+AWS Glue,Max development endpoint per account,"Available in source, Not Available in target"
+AWS Glue,Max jobs per trigger,"Available in source, Not Available in target"
+AWS Glue,Number of workflows,"Available in source, Not Available in target"
+AWS Glue,Number of column statistics tasks running concurrently per account,Available in both
+AWS Glue,Concurrent machine learning task runs per transform,Available in both
+AWS Glue,Max table versions per account,"Available in source, Not Available in target"
+AWS Glue,Max partitions per table,Available in both
+AWS Glue,Max functions per account,"Available in source, Not Available in target"
+AWS Glue,Max task DPUs per account,Available in both
+AWS Glue,Max concurrent job runs per job,"Available in source, Not Available in target"
+AWS Glue,Max data quality rulesets per account,Available in both
+AWS Glue,Max concurrent job runs per account,Available in both
+AWS Glue,Max concurrent data quality ruleset evaluation runs per account,Available in both
+AWS Glue,Max tables per database,"Available in source, Not Available in target"
+Amazon GuardDuty,Threat intel sets,Available in both
+Amazon GuardDuty,Filters,Available in both
+EC2 Image Builder,Components,Available in both
+EC2 Image Builder,Component parameter length,Available in both
+EC2 Image Builder,Parameters per image workflow,Available in both
+EC2 Image Builder,Image recipes,Available in both
+EC2 Image Builder,Image workflow size,Available in both
+EC2 Image Builder,Docker template size,"Available in source, Not Available in target"
+EC2 Image Builder,Distribution configurations,Available in both
+EC2 Image Builder,Launch templates modified per distribution configuration,Available in both
+EC2 Image Builder,Concurrent resource state update,Available in both
+EC2 Image Builder,Lifecycle policies,Available in both
+EC2 Image Builder,Components per image recipe,Available in both
+EC2 Image Builder,Image workflows,Available in both
+EC2 Image Builder,Parameters per component,Available in both
+EC2 Image Builder,Image workflow parameter,Available in both
+EC2 Image Builder,Concurrent builds,Available in both
+EC2 Image Builder,Image pipelines,Available in both
+EC2 Image Builder,Steps per image workflow,Available in both
+EC2 Image Builder,Image workflows per image,Available in both
+EC2 Image Builder,Concurrent AMI copies per distribution configuration,Available in both
+EC2 Image Builder,Infrastructure configurations,"Available in source, Not Available in target"
+Amazon Inspector,Number of Suppression Rules,"Available in source, Not Available in target"
+AWS IoT Analytics,Number of StartPipelineReprocessing requests,"Available in source, Not Available in target"
+AWS IoT Core,UpdateThingGroupsForThing API TPS,"Available in source, Not Available in target"
+AWS IoT Core,CreateThingType API TPS,"Available in source, Not Available in target"
+AWS IoT Core,ListThingsInThingGroup API TPS,"Available in source, Not Available in target"
+AWS IoT Core,CreateDynamicThingGroup API TPS,"Available in source, Not Available in target"
+AWS IoT Core,DeleteThingType API TPS,"Available in source, Not Available in target"
+AWS IoT Core,ListThings API TPS,"Available in source, Not Available in target"
+AWS IoT Core,CreateCertificateProvider API TPS,"Available in source, Not Available in target"
+AWS IoT Core,TagResource API TPS,"Available in source, Not Available in target"
+AWS IoT Core,ListThingGroups API TPS,"Available in source, Not Available in target"
+AWS IoT Core,CreateBillingGroup API TPS,"Available in source, Not Available in target"
+AWS IoT Core,DescribeThing API TPS,"Available in source, Not Available in target"
+AWS IoT Core,DescribeEventConfigurations API TPS,"Available in source, Not Available in target"
+AWS IoT Core,CreateThingGroup API TPS,"Available in source, Not Available in target"
+AWS IoT Core,AddThingToBillingGroup API TPS,"Available in source, Not Available in target"
+AWS IoT Core,UpdateEventConfigurations API TPS,"Available in source, Not Available in target"
+AWS IoT Core,UntagResource API TPS,"Available in source, Not Available in target"
+AWS IoT Core,DeleteThing API TPS,"Available in source, Not Available in target"
+AWS IoT Core,CreateThing API TPS,"Available in source, Not Available in target"
+AWS IoT Core,UpdateThingGroup API TPS,"Available in source, Not Available in target"
+AWS IoT Core,DescribeThingType API TPS,"Available in source, Not Available in target"
+AWS IoT TwinMaker,Entities per workspace,"Available in source, Not Available in target"
+AWS IoT TwinMaker,Component types per workspace,"Available in source, Not Available in target"
+AWS IoT TwinMaker,Scenes per workspace,"Available in source, Not Available in target"
+AWS IoT TwinMaker,Component type composition tree depth,"Available in source, Not Available in target"
+AWS IoT TwinMaker,Depth of component type hierarchy,"Available in source, Not Available in target"
+AWS IoT TwinMaker,Size of the metadata transfer job import file,"Available in source, Not Available in target"
+Amazon Interactive Video Service,Stages,"Available in source, Not Available in target"
+Amazon Interactive Video Service,Stream Key,"Available in source, Not Available in target"
+Amazon Interactive Video Service,Total number of Destinations per Composition,"Available in source, Not Available in target"
+Amazon Interactive Video Service,Compositions,"Available in source, Not Available in target"
+Amazon Interactive Video Service,Concurrent views,"Available in source, Not Available in target"
+Amazon Interactive Video Service,Stage participants (subscribers),"Available in source, Not Available in target"
+Amazon Interactive Video Service,Stage participants (publishers),"Available in source, Not Available in target"
+Amazon Interactive Video Service,Concurrent streams,"Available in source, Not Available in target"
+Amazon Interactive Video Service,Recording configurations,"Available in source, Not Available in target"
+Amazon Interactive Video Service,Max Composition duration,"Available in source, Not Available in target"
+Amazon Interactive Video Service Chat,Rooms,"Available in source, Not Available in target"
+Amazon Interactive Video Service Chat,Rate of messaging requests per connection,"Available in source, Not Available in target"
+Amazon Interactive Video Service Chat,Rate of DisconnectUser requests,"Available in source, Not Available in target"
+Amazon Interactive Video Service Chat,Rate of DeleteMessage requests,"Available in source, Not Available in target"
+Amazon Interactive Video Service Chat,Logging Configurations,"Available in source, Not Available in target"
+Amazon Interactive Video Service Chat,Rate of SendMessage requests,"Available in source, Not Available in target"
+Amazon Interactive Video Service Chat,Concurrent chat connections,"Available in source, Not Available in target"
+Amazon Interactive Video Service Chat,Message review handler timeout period,"Available in source, Not Available in target"
+Amazon Managed Streaming for Kafka (MSK),Number of brokers per account,Available in both
+Amazon Managed Streaming for Kafka (MSK),Number of configurations per account,Available in both
+Amazon Managed Streaming for Kafka (MSK),Number of revisions per configuration,Available in both
+Amazon Managed Streaming for Kafka (MSK),Number of replicators per account,"Available in source, Not Available in target"
+Amazon Managed Streaming for Kafka (MSK),Number of brokers per cluster,Available in both
+Amazon Kinesis Data Streams,Shards per Region,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,GetClip fragments,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,PutMedia bandwidth,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of DescribeMappedResourceConfigurationAPI requests,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of UpdateDataRetentionAPI requests per stream,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of DescribeStreamAPI requests per stream,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,ConnectAsMaster GO_AWAY message grace period,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of TagStreamAPI requests,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of DeleteSignalingChannelAPI requests per signaling channel,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,GetHLSMediaPlaylist fragments,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of ListTagsForResourceAPI requests,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of CreateStreamAPI requests,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of GetSignalingChannelEndpointAPI requests per signaling channel,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of ListSignalingChannelsAPI requests,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,PutMedia tracks,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of UntagStreamAPI requests,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of CreateSignalingChannelAPI requests,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of DeleteStreamAPI requests,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of StartEdgeConfigurationUpdateAPI requests,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,ConnectAsViewer connection duration,"Available in source, Not Available in target"
+Amazon Kinesis Video Streams,Rate of SendAlexaOfferToMasterAPI requests per signaling channel,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),GenerateDataKeyPair (RSA_3072) request rate,Available in both
+AWS Key Management Service (AWS KMS),CreateCustomKeyStore request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),GetKeyPolicy request rate,Available in both
+AWS Key Management Service (AWS KMS),PutKeyPolicy request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),ListRetirableGrants request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),Cryptographic operations (symmetric) request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),ListKeyPolicies request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),RetireGrant request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),EnableKeyRotation request rate,Available in both
+AWS Key Management Service (AWS KMS),DisableKey request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),Cryptographic operations (RSA) request rate,Available in both
+AWS Key Management Service (AWS KMS),TagResource request rate,Available in both
+AWS Key Management Service (AWS KMS),ImportKeyMaterial request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),UpdateKeyDescription request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),GenerateDataKeyPair (RSA_4096) request rate,Available in both
+AWS Key Management Service (AWS KMS),DeleteAlias request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),DeleteImportedKeyMaterial request rate,"Available in source, Not Available in target"
+AWS Key Management Service (AWS KMS),GenerateDataKeyPair (ECC_NIST_P521) request rate,Available in both
+AWS Key Management Service (AWS KMS),ScheduleKeyDeletion request rate,Available in both
+AWS Key Management Service (AWS KMS),CreateKey request rate,Available in both
+AWS Lambda,Function and layer storage,Available in both
+AWS Lambda,Concurrent executions,Available in both
+AWS Lambda,Concurrency scaling rate,Available in both
+AWS License Manager,License configuration associations per resource,"Available in source, Not Available in target"
+AWS License Manager,License configurations,"Available in source, Not Available in target"
+Amazon Lightsail,Static IP addresses,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,Batch size,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,DescribeSubscriptionFilters throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,PutDestination throttle limit in transactions per second,Available in both
+Amazon CloudWatch Logs,DeleteRetentionPolicy throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,Event size,Available in both
+Amazon CloudWatch Logs,DescribeLogGroups throttle limit in transactions per second,Available in both
+Amazon CloudWatch Logs,PutLogEvents throttle limit in transactions per second,Available in both
+Amazon CloudWatch Logs,Subscription filters per log group,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,TagLogGroup throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,DeleteLogGroup throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,DescribeDestinations throttle limit in transactions per second,Available in both
+Amazon CloudWatch Logs,GetLogEvents throttle limit in transactions per second,Available in both
+Amazon CloudWatch Logs,CancelExportTask throttle limit in transactions per second,Available in both
+Amazon CloudWatch Logs,Active export task,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,ListTagsForResource throttle limit in transactions per second,Available in both
+Amazon CloudWatch Logs,DescribeExportTasks throttle limit in transactions per second,Available in both
+Amazon CloudWatch Logs,DescribeLogStreams throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,CreateLogGroup throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,AssociateKmsKey throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon CloudWatch Logs,StartLiveTail throttle limit in transactions per second,"Available in source, Not Available in target"
+AWS Mainframe Modernization,Max Applications Per AWS Account,"Available in source, Not Available in target"
+AWS Mainframe Modernization,Max DataTransferEndpoints Per AWS Account,"Available in source, Not Available in target"
+AWS Mainframe Modernization,Max Environments Per AWS Account,"Available in source, Not Available in target"
+AWS Mainframe Modernization,Max number of EFS filesystems per environment,"Available in source, Not Available in target"
+AWS Mainframe Modernization,Max number of FSX filesystems per environment,"Available in source, Not Available in target"
+AWS Mainframe Modernization,Max Instances Per High Availability Environment,"Available in source, Not Available in target"
+Amazon Macie,Sensitive data discovery per month per account,"Available in source, Not Available in target"
+AWS Elemental MediaConnect,Flows,Available in both
+AWS Elemental MediaConnect,Entitlements,Available in both
+AWS Elemental MediaConnect,Outputs,Available in both
+AWS Elemental MediaLive,CDI Channels,"Available in source, Not Available in target"
+AWS Elemental MediaLive,Push Inputs,"Available in source, Not Available in target"
+AWS Elemental MediaLive,MediaLive DescribeThumbnails TPS,"Available in source, Not Available in target"
+AWS Elemental MediaLive,VPC Inputs,"Available in source, Not Available in target"
+AWS Elemental MediaLive,UHD Channels,"Available in source, Not Available in target"
+AWS Elemental MediaLive,Reservations,"Available in source, Not Available in target"
+AWS Elemental MediaLive,HEVC Channels,"Available in source, Not Available in target"
+AWS Elemental MediaLive,Channels,"Available in source, Not Available in target"
+AWS Elemental MediaLive,Multiplexes,"Available in source, Not Available in target"
+AWS Elemental MediaLive,Device Inputs,"Available in source, Not Available in target"
+AWS Elemental MediaLive,Pull Inputs,"Available in source, Not Available in target"
+AWS Elemental MediaLive,Input Security Groups,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Assets per packaging group,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Rate of segment egress requests per origin endpoint,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Tracks per ingest stream (VOD),"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Rate of REST API requests (VOD),"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Rate of segment egress requests per asset,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Ingest streams per channel,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Rate of ingest requests per channel,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Rate of manifest egress requests per origin endpoint,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Content retention,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Burst rate of REST API requests (Live),"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Live manifest length,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Packaging configurations per packaging group,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Rate of manifest egress requests per asset,"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Tracks per ingest stream (Live),"Available in source, Not Available in target"
+AWS Elemental MediaPackage,Channels,"Available in source, Not Available in target"
+AWS Elemental MediaPackage v2,Channel Groups,"Available in source, Not Available in target"
+AWS Elemental MediaPackage v2,Origin endpoints per channel,"Available in source, Not Available in target"
+AWS Elemental MediaPackage v2,Rate of ingest requests per channel,"Available in source, Not Available in target"
+AWS Elemental MediaPackage v2,Manifests per origin endpoint,"Available in source, Not Available in target"
+AWS Elemental MediaPackage v2,Burst rate of REST API requests,"Available in source, Not Available in target"
+AWS Elemental MediaPackage v2,Channels per channel group,"Available in source, Not Available in target"
+AWS Elemental MediaPackage v2,Rate of REST API requests,"Available in source, Not Available in target"
+AWS Elemental MediaPackage v2,Ingest streams per channel,"Available in source, Not Available in target"
+AWS Elemental MediaPackage v2,Time-shifted manifest length,"Available in source, Not Available in target"
+AWS Elemental MediaPackage v2,Tracks per ingest stream,"Available in source, Not Available in target"
+Application Migration,Max Active Source Servers,Available in both
+Application Migration,Max active applications,Available in both
+Application Migration,Max archived waves,Available in both
+Application Migration,Max actions per source server,Available in both
+Amazon CloudWatch,Rate of GetMetricData requests,"Available in source, Not Available in target"
+Amazon CloudWatch,Rate of UntagResource requests,"Available in source, Not Available in target"
+Amazon CloudWatch,Canary limit,Available in both
+Amazon CloudWatch,Number of Contributor Insights rules,"Available in source, Not Available in target"
+Amazon CloudWatch,Rate of StartMetricStreams requests,Available in both
+Amazon CloudWatch,Rate of StopMetricStreams requests,Available in both
+Amazon CloudWatch,Rate of TagResource requests,"Available in source, Not Available in target"
+Amazon CloudWatch,Rate of DescribeAlarmHistory requests,"Available in source, Not Available in target"
+Amazon CloudWatch,Rate of PutCompositeAlarm requests,Available in both
+Amazon CloudWatch,Rate of DeleteInsightRules requests,"Available in source, Not Available in target"
+Amazon CloudWatch,Rate of PutMetricData requests,"Available in source, Not Available in target"
+Amazon CloudWatch,Rate of GetDashboard requests,Available in both
+Amazon CloudWatch,Rate of ListDashboards requests,Available in both
+Amazon CloudWatch,Rate of PutMetricAlarm requests,Available in both
+Amazon CloudWatch,Rate of GetMetricStatistics requests,Available in both
+Amazon CloudWatch,Rate of PutMetricStream requests,Available in both
+Amazon CloudWatch,Rate of PutInsightRule requests,"Available in source, Not Available in target"
+AWS Network Firewall,Suricata rules string size,Available in both
+AWS Network Firewall,Resource filters,Available in both
+AWS Network Firewall,Firewalls,Available in both
+AWS Network Firewall,TLS inspection configurations per policy,Available in both
+AWS Network Firewall,Number of policies that can use the same rule group,Available in both
+AWS Network Firewall,Number of firewalls that can use the same policy,Available in both
+AWS Network Firewall,Stateful rulegroups,Available in both
+AWS Network Firewall,TLS configurations,Available in both
+AWS Network Firewall,Suricata rule character length,Available in both
+AWS Network Firewall,Number of policies using a TLS inspection configuration,Available in both
+AWS Network Firewall,Stateless rulegroups,Available in both
+AWS Network Firewall,CA certificates per TLS configuration,Available in both
+AWS Network Firewall,IP set references per Suricata compatible stateful rule group,Available in both
+AWS Network Firewall,Stateless rules per policy,Available in both
+AWS Network Firewall,Stateful rule group capacity,Available in both
+AWS Network Firewall,Stateless rule group custom actions,Available in both
+AWS Network Firewall,Firewall policies,Available in both
+AWS Network Firewall,Network traffic bandwidth per firewall endpoint,Available in both
+AWS Network Firewall,Stateless rule groups per policy,Available in both
+AWS Network Firewall,Stateless rule group capacity,Available in both
+Amazon CloudWatch Network Monitor,Number of probes per subnet for each monitor,"Available in source, Not Available in target"
+Amazon CloudWatch Network Monitor,Number of probes per monitor,"Available in source, Not Available in target"
+Amazon CloudWatch Network Monitor,Number of monitors per account per AWS region,"Available in source, Not Available in target"
+AWS Outposts,Outpost sites,"Available in source, Not Available in target"
+AWS Outposts,Outposts per site,"Available in source, Not Available in target"
+Private CA Connector for Active Directory,Rate of ListTagsForResource requests,Available in both
+Private CA Connector for Active Directory,Rate of UntagResource requests,Available in both
+Private CA Connector for Active Directory,Rate of GetTemplate requests,Available in both
+Private CA Connector for Active Directory,Rate of GetConnector requests,Available in both
+Private CA Connector for Active Directory,Rate of DeleteDirectoryRegistration requests,Available in both
+Private CA Connector for Active Directory,Rate of DeleteConnector requests,Available in both
+Private CA Connector for Active Directory,Rate of RequestSecurityToken requests,Available in both
+Private CA Connector for Active Directory,Rate of CreateConnector requests,Available in both
+Private CA Connector for Active Directory,Rate of GetPolicies requests,Available in both
+Amazon Personalize,Amount of data for Popularity-Count recipe,"Available in source, Not Available in target"
+Amazon Personalize,Rate of ListDatasetGroups requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of ListDatasetImportJobRuns requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of DescribeCampaign requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of DeleteDatasetImportJob requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of DeleteCampaign requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of DescribeDatasetGroup requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of DescribeSchema requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of DescribeDatasetImportJob requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of DeleteDataset requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of ListSolutionVersions requests,"Available in source, Not Available in target"
+Amazon Personalize,Number of action interactions for model training,"Available in source, Not Available in target"
+Amazon Personalize,Rate of ListSolutions requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of DescribeSolution requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of CreateSchema requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of transactions per account,"Available in source, Not Available in target"
+Amazon Personalize,Rate of DescribeEventTracker requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of ListDatasetImportJobs requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of DescribeDataset requests,"Available in source, Not Available in target"
+Amazon Personalize,Rate of PutActionInteractions requests per dataset group,"Available in source, Not Available in target"
+Amazon Pinpoint,Maximum number of active journeys per account,"Available in source, Not Available in target"
+Amazon Pinpoint,UpdateSmsTemplate operation rate quota,"Available in source, Not Available in target"
+Amazon Pinpoint,UpdateEndpointsBatch operation burst quota,"Available in source, Not Available in target"
+Amazon Pinpoint,UpdateInAppTemplate operation burst quota,"Available in source, Not Available in target"
+Amazon Pinpoint,UpdateEndpoint operation rate quota,"Available in source, Not Available in target"
+AWS Resource Access Manager,Number of resource associations,Available in both
+AWS Resource Access Manager,Number of resource shares,Available in both
+Amazon Recycle Bin,Tags per rule,Available in both
+Amazon Recycle Bin,Rules per Region,Available in both
+Amazon Relational Database Service (Amazon RDS),Data API HTTP request body size,"Available in source, Not Available in target"
+Amazon Relational Database Service (Amazon RDS),Data API maximum result set size,"Available in source, Not Available in target"
+Amazon Relational Database Service (Amazon RDS),Data API maximum concurrent cluster-secret pairs,"Available in source, Not Available in target"
+Amazon Relational Database Service (Amazon RDS),Data API maximum concurrent requests,"Available in source, Not Available in target"
+Amazon Relational Database Service (Amazon RDS),Proxies,"Available in source, Not Available in target"
+Amazon Relational Database Service (Amazon RDS),Data API requests per second,"Available in source, Not Available in target"
+Amazon Relational Database Service (Amazon RDS),Data API maximum size of JSON response string,"Available in source, Not Available in target"
+Amazon Relational Database Service (Amazon RDS),Total storage for all DB instances,Available in both
+Amazon Relational Database Service (Amazon RDS),Read replicas per primary,Available in both
+Amazon Relational Database Service (Amazon RDS),IAM roles per DB instance,Available in both
+Amazon Relational Database Service (Amazon RDS),Manual DB cluster snapshots,Available in both
+Amazon Relational Database Service (Amazon RDS),Security groups,Available in both
+Amazon Relational Database Service (Amazon RDS),Parameter groups,Available in both
+Amazon Relational Database Service (Amazon RDS),IAM roles per DB cluster,Available in both
+Amazon Relational Database Service (Amazon RDS),DB subnet groups,Available in both
+Amazon Relational Database Service (Amazon RDS),Event subscriptions,Available in both
+Amazon Relational Database Service (Amazon RDS),DB instances,Available in both
+Amazon Relational Database Service (Amazon RDS),DB cluster parameter groups,Available in both
+Amazon Relational Database Service (Amazon RDS),Authorizations per DB security group,Available in both
+Amazon Relational Database Service (Amazon RDS),Subnets per DB subnet group,Available in both
+AWS Migration Hub Refactor Spaces,Applications,"Available in source, Not Available in target"
+AWS Migration Hub Refactor Spaces,Routes,"Available in source, Not Available in target"
+AWS Migration Hub Refactor Spaces,Environments,"Available in source, Not Available in target"
+AWS Migration Hub Refactor Spaces,Services,"Available in source, Not Available in target"
+Amazon Rekognition,Transactions per second per account for the Amazon Rekognition Custom Labels operation: UpdateDatasetEntries,"Available in source, Not Available in target"
+Amazon Rekognition,Amazon Rekognition Custom Labels models per project,"Available in source, Not Available in target"
+Amazon Rekognition,Transactions per second per account for the Amazon Rekognition operation: DeleteUser,"Available in source, Not Available in target"
+Amazon Rekognition,Transactions per second per account for the Amazon Rekognition Image operation DetectFaces,"Available in source, Not Available in target"
+Amazon Rekognition,Transactions per second per account for the Amazon Rekognition Video stored video get operation GetTextDetection,"Available in source, Not Available in target"
+Amazon Rekognition,Transactions per second per account for the Amazon Rekognition Video stored video start operation StartFaceSearch,"Available in source, Not Available in target"
+Amazon Rekognition,Transactions per second per account for the Amazon Rekognition Custom Labels operation DeleteProjectVersion,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of resources per application,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of applications,"Available in source, Not Available in target"
+AWS Resilience Hub,Terraform state file maximum size,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of Application Components per application,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of Terraform state files to import,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of Regulatory Policies,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of namespaces to import for an EKS cluster,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of AWS CloudFormation stacks to import,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of recommendation templates per application per month,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of Resiliency Policies,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of EKS clusters to import,"Available in source, Not Available in target"
+AWS Resilience Hub,Number of assessments per application per month,"Available in source, Not Available in target"
+AWS Resource Explorer,Non-aggregator Region search monthly quota,Available in both
+AWS Resource Explorer,Aggregator Region search monthly quota,Available in both
+AWS Resource Explorer,Search TPS quota,Available in both
+AWS Resource Groups,Resource groups per account,"Available in source, Not Available in target"
+IAM Roles Anywhere,Rate of CreateSession requests,"Available in source, Not Available in target"
+IAM Roles Anywhere,CRLs per trust anchor,"Available in source, Not Available in target"
+IAM Roles Anywhere,Trust anchors,"Available in source, Not Available in target"
+IAM Roles Anywhere,Combined rate of profile requests,"Available in source, Not Available in target"
+IAM Roles Anywhere,Combined rate of CRL requests,"Available in source, Not Available in target"
+IAM Roles Anywhere,Combined rate of trust anchor requests,"Available in source, Not Available in target"
+IAM Roles Anywhere,Combined rate of subject requests,"Available in source, Not Available in target"
+IAM Roles Anywhere,Certificates per trust anchor,"Available in source, Not Available in target"
+IAM Roles Anywhere,Combined rate of tagging requests,"Available in source, Not Available in target"
+IAM Roles Anywhere,Profiles,"Available in source, Not Available in target"
+Route 53 Resolver,Resolver rules per AWS Region,Available in both
+Route 53 Resolver,Domains in a file imported from S3,"Available in source, Not Available in target"
+Route 53 Resolver,DNS Firewall rules groups per Region,"Available in source, Not Available in target"
+Route 53 Resolver,Domain lists per account,"Available in source, Not Available in target"
+Route 53 Resolver,Associations between resolver rules and VPCs per AWS Region,Available in both
+Route 53 Resolver,Rules in a DNS Firewall rule group,"Available in source, Not Available in target"
+Route 53 Resolver,Target IP addresses per resolver rule,Available in both
+Route 53 Resolver,DNS Firewall rule group associations per VPC,"Available in source, Not Available in target"
+Route 53 Resolver,Maximum number of resolver endpoints per AWS Region,Available in both
+Route 53 Resolver,IP addresses per resolver endpoint,Available in both
+Route 53 Resolver,Domains per account,"Available in source, Not Available in target"
+Amazon SageMaker,Studio CodeEditor Apps running on ml.r6id.large instances,"Available in source, Not Available in target"
+Amazon SageMaker,ml.p2.xlarge for notebook instance usage,"Available in source, Not Available in target"
+Amazon SageMaker,Studio CodeEditor Apps running on ml.r5.4xlarge instances,"Available in source, Not Available in target"
+Amazon SageMaker,ml.p4d.24xlarge for endpoint usage,"Available in source, Not Available in target"
+Amazon SageMaker,ml.p2.xlarge for training warm pool usage,"Available in source, Not Available in target"
+Amazon SageMaker,Maximum total concurrency that can be allocated across all serverless endpoints,"Available in source, Not Available in target"
+Amazon SageMaker,"Total number of trial components allowed in a single trial, excluding those automatically created by SageMaker","Available in source, Not Available in target"
+Amazon SageMaker,Studio JupyterLab Apps running on ml.m7i.2xlarge instances,"Available in source, Not Available in target"
+Amazon SageMaker,ml.c4.8xlarge for training warm pool usage,"Available in source, Not Available in target"
+Amazon SageMaker,ml.m4.4xlarge for processing job usage,"Available in source, Not Available in target"
+Amazon SageMaker,Studio CodeEditor Apps running on ml.c6i.xlarge instances,"Available in source, Not Available in target"
+Amazon SageMaker,Maximum number of Ground Truth Streaming labeling jobs,"Available in source, Not Available in target"
+Amazon SageMaker,Studio CodeEditor Apps running on ml.c5.large instances,"Available in source, Not Available in target"
+Amazon SageMaker,Studio KernelGateway Apps running on ml.g5.xlarge instance,"Available in source, Not Available in target"
+Amazon SageMaker,ml.r6id.24xlarge for notebook instance usage,"Available in source, Not Available in target"
+Amazon SageMaker,Maximum number of Ground Truth labeling jobs,Available in both
+Amazon SageMaker,RSessionGateway Apps running on ml.c5.24xlarge instance,"Available in source, Not Available in target"
+Amazon SageMaker,ml.p3dn.24xlarge for training job usage,"Available in source, Not Available in target"
+Amazon SageMaker,ml.c5.2xlarge for notebook instance usage,"Available in source, Not Available in target"
+Amazon EventBridge Schema Registry,DiscoveredSchemas,"Available in source, Not Available in target"
+Amazon EventBridge Schema Registry,SchemaVersions,"Available in source, Not Available in target"
+Amazon EventBridge Schema Registry,Schemas,"Available in source, Not Available in target"
+Amazon EventBridge Schema Registry,Registries,"Available in source, Not Available in target"
+Amazon EventBridge Schema Registry,Discoverers,"Available in source, Not Available in target"
+AWS Secrets Manager,Secret value size,Available in both
+AWS Secrets Manager,Rate of BatchGetSecretValue API requests,Available in both
+AWS Secrets Manager,Combined rate of RestoreSecret API requests,Available in both
+AWS Secrets Manager,"Combined rate of PutSecretValue, RemoveRegionsFromReplication, ReplicateSecretToRegion, StopReplicationToReplica, UpdateSecret, and UpdateSecretVersionStage API requests",Available in both
+AWS Secrets Manager,Staging labels attached across all versions of a secret,Available in both
+AWS Secrets Manager,Secrets,Available in both
+AWS Secrets Manager,Rate of GetRandomPassword API requests,Available in both
+AWS Secrets Manager,Resource-based policy length,Available in both
+AWS Secrets Manager,Versions per secret,Available in both
+AWS Secrets Manager,Combined rate of TagResource and UntagResource API requests,Available in both
+AWS Secrets Manager,Rate of DeleteSecret API requests,Available in both
+AWS Secrets Manager,Combined rate of RotateSecret and CancelRotateSecret API requests,Available in both
+AWS Secrets Manager,Combined rate of DescribeSecret and GetSecretValue API requests,Available in both
+AWS Secrets Manager,Rate of ListSecretVersionIds API requests,Available in both
+AWS Secrets Manager,Rate of CreateSecret API requests,Available in both
+AWS Secrets Manager,Rate of ListSecrets API requests,Available in both
+AWS Secrets Manager,"Combined rate of DeleteResourcePolicy, GetResourcePolicy, PutResourcePolicy, and ValidateResourcePolicy API requests",Available in both
+AWS Security Hub,Number of automation rules,Available in both
+AWS Service Catalog,Products per portfolio,Available in both
+AWS Service Catalog,Service actions per region,Available in both
+AWS Service Catalog,Service action associations per provisioning artifact,Available in both
+AWS Service Catalog,Attribute groups per application,Available in both
+AWS Service Catalog,Tags per product,Available in both
+AWS Service Catalog,Product versions per product,Available in both
+AWS Service Catalog,"Users, groups, and roles per product",Available in both
+AWS Service Catalog,Shared accounts per portfolio,Available in both
+AWS Service Catalog,Tags per provisioned product,Available in both
+AWS Service Catalog,Attribute groups per region,"Available in source, Not Available in target"
+AWS Service Catalog,Portfolios per region,"Available in source, Not Available in target"
+AWS Service Catalog,Applications per attribute group,"Available in source, Not Available in target"
+AWS Service Catalog,"Users, groups, and roles per portfolio",Available in both
+AWS Service Catalog,Resources per application,Available in both
+Service Quotas,Active requests per account per Region,Available in both
+Service Quotas,Throttle rate for UntagResource,Available in both
+Service Quotas,Throttle rate for GetAWSDefaultServiceQuota,Available in both
+Service Quotas,Throttle rate for TagResource,Available in both
+Service Quotas,Active requests per quota,Available in both
+Service Quotas,Throttle rate for GetServiceQuota,Available in both
+Service Quotas,Throttle rate for ListRequestedServiceQuotaChangeHistory,Available in both
+Service Quotas,Throttle rate for ListRequestedServiceQuotaChangeHistoryByQuota,Available in both
+Service Quotas,Throttle rate for ListServiceQuotas,Available in both
+Service Quotas,Throttle rate for RequestServiceQuotaIncrease,Available in both
+Service Quotas,Throttle rate for ListServices,Available in both
+Service Quotas,Throttle rate for ListTagsForResource,Available in both
+Service Quotas,Throttle rate for ListAWSDefaultServiceQuotas,Available in both
+Service Quotas,Throttle rate for GetRequestedServiceQuotaChange,Available in both
+Amazon Simple Email Service(Amazon SES),Sending quota,"Available in source, Not Available in target"
+Amazon Simple Email Service(Amazon SES),Sending rate,"Available in source, Not Available in target"
+AWS Server Migration Service,Duration of service usage per VM in days,"Available in source, Not Available in target"
+AWS Server Migration Service,Concurrent VM migrations,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),ConfirmSubscription Transactions per Second,Available in both
+Amazon Simple Notification Service (Amazon SNS),Subscriptions per Topic,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),OptInPhoneNumber Transactions per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),VerifySMSSandboxPhoneNumber Transactions per Second,Available in both
+Amazon Simple Notification Service (Amazon SNS),Subscribe Transactions per Second,Available in both
+Amazon Simple Notification Service (Amazon SNS),SetTopicAttributes Transactions per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),GetTopicAttributes Transactions per Second,Available in both
+Amazon Simple Notification Service (Amazon SNS),AddPermission Transactions per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),GetEndpointAttributes Transactions per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),ListPlatformApplications Transactions per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),UntagResource Transactions per Second,Available in both
+Amazon Simple Notification Service (Amazon SNS),DeletePlatformApplication Transactions per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),Filter Policies per Account,Available in both
+Amazon Simple Notification Service (Amazon SNS),Unsubscribe Transactions per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),Messages Published per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),ListEndpointsByPlatformApplication Transactions per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),CreatePlatformApplication Transactions per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),ListSMSSandboxPhoneNumbers Transactions per Second,"Available in source, Not Available in target"
+Amazon Simple Notification Service (Amazon SNS),SetPlatformApplicationAttributes Transactions per Second,"Available in source, Not Available in target"
+AWS Systems Manager,Concurrently running automations with blocking actions,Available in both
+AWS Systems Manager,Instances per target,Available in both
+AWS Systems Manager,Single Maintenance Window concurrent executions,Available in both
+AWS Systems Manager,Maintenance Window execution history retention,Available in both
+AWS Systems Manager,Targets per Maintenance Window,Available in both
+AWS Systems Manager,Tasks per Maintenance Window,Available in both
+AWS Systems Manager Incident Manager Contacts,Rotations per schedule,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,Stages per plan,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,StopEngagement API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,ListEngagements API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,StartEngagement API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,ListPagesByContact API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,Email engagement throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,Voice engagement throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,GetContact API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,Contacts per account,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,SMS engagement throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,Non-mutating rotation-related API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,ListPageReceipts API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,Contacts per rotation,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,ListPagesByEngagement API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,DescribePage API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,AcceptPage API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,DescribeEngagement API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,Contact channels per stage,"Available in source, Not Available in target"
+AWS Systems Manager Incident Manager Contacts,Non-mutating SSMContacts-related API throttle quota,"Available in source, Not Available in target"
+AWS Systems Manager GUI Connect,Concurrent Remote Desktop connections,Available in both
+AWS Systems Manager for SAP,Databases per component,"Available in source, Not Available in target"
+AWS Systems Manager for SAP,SAP applications per Region in account,"Available in source, Not Available in target"
+AWS Systems Manager for SAP,Components per SAP application,"Available in source, Not Available in target"
+Amazon Textract,GetLendingAnalysis throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,AnalyzeExpense throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,CreateAdapterVersion throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,Async DocumentAnalysis throttle limit for max number of concurrent jobs,"Available in source, Not Available in target"
+Amazon Textract,Async DocumentTextDetection throttle limit for max number of concurrent jobs,"Available in source, Not Available in target"
+Amazon Textract,UpdateAdapter throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,CreateAdapterVersion throttle limit for max number of in-progress adapter versions per account,"Available in source, Not Available in target"
+Amazon Textract,UntagResource throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,AnalyzeDocument throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,GetDocumentTextDetection throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,GetLendingAnalysisSummary throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,GetAdapterVersion throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,StartDocumentTextDetection throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,CreateAdapter throttle limit for max number of adapters per account,"Available in source, Not Available in target"
+Amazon Textract,GetAdapter throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,DetectDocumentText throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,StartDocumentAnalysis throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,Async LendingAnalysis throttle limit for max number of concurrent jobs,"Available in source, Not Available in target"
+Amazon Textract,DeleteAdapterVersion throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Textract,AnalyzeID throttle limit in transactions per second,"Available in source, Not Available in target"
+Amazon Timestream for Managed Influx,Database instances per account,"Available in source, Not Available in target"
+Amazon Verified Permissions,GetPolicyStore requests per second per Region per account,Available in both
+Amazon Verified Permissions,BatchIsAuthorized requests per second per Region per account,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Internet gateways per Region,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Elastic IP address quota per NAT gateway,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Security groups per network interface,"Available in source, Not Available in target"
+Amazon Virtual Private Cloud (Amazon VPC),Inbound or outbound rules per security group,"Available in source, Not Available in target"
+Amazon Virtual Private Cloud (Amazon VPC),Outstanding VPC peering connection requests,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Participant accounts per VPC,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Rules per network ACL,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Egress-only internet gateways per Region,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Routes per route table,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Subnets that can be shared with an account,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),IPv4 CIDR blocks per VPC,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Gateway VPC endpoints per Region,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Network ACLs per VPC,"Available in source, Not Available in target"
+Amazon Virtual Private Cloud (Amazon VPC),VPCs per Region,"Available in source, Not Available in target"
+Amazon Virtual Private Cloud (Amazon VPC),VPC peering connection request expiry hours,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Private IP address quota per NAT gateway,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Subnets per VPC,Available in both
+Amazon Virtual Private Cloud (Amazon VPC),Active VPC peering connections per VPC,Available in both
+AWS Well-Architected Tool,Shares per review template,"Available in source, Not Available in target"
+AWS Well-Architected Tool,Lenses per review template,"Available in source, Not Available in target"
+AWS Well-Architected Tool,Review templates per account per Region,"Available in source, Not Available in target"
+Amazon WorkSpaces,Directories,"Available in source, Not Available in target"
+Amazon WorkSpaces,WorkSpaces,"Available in source, Not Available in target"
+Amazon WorkSpaces,Connection aliases,"Available in source, Not Available in target"
+Amazon WorkSpaces,Bundles,"Available in source, Not Available in target"
+Amazon WorkSpaces,Rules per IP access control group,"Available in source, Not Available in target"
+Amazon WorkSpaces,Graphics.g4dn WorkSpaces,"Available in source, Not Available in target"
+Amazon WorkSpaces,Images,"Available in source, Not Available in target"
+Amazon WorkSpaces,IP access control groups per directory,"Available in source, Not Available in target"
+Amazon WorkSpaces,IP access control groups,"Available in source, Not Available in target"
+Amazon WorkSpaces,GraphicsPro.g4dn WorkSpaces,"Available in source, Not Available in target"
+Amazon WorkSpaces Web,Number of UserSettings,"Available in source, Not Available in target"
+Amazon WorkSpaces Web,Number of IdentityProviders per Portal,"Available in source, Not Available in target"
+Amazon WorkSpaces Web,Number of BrowserSettings,"Available in source, Not Available in target"
+Amazon WorkSpaces Web,Number of IpAccessSettings,"Available in source, Not Available in target"
+Amazon WorkSpaces Web,Number of TrustStores,"Available in source, Not Available in target"
+Amazon WorkSpaces Web,Number of UserAccessLoggingSettings,"Available in source, Not Available in target"
+Amazon WorkSpaces Web,Number of NetworkSettings,"Available in source, Not Available in target"
+Amazon WorkSpaces Web,Number of Web Portals,"Available in source, Not Available in target"
+Amazon WorkSpaces Web,Number of Certificates per TrustStore,"Available in source, Not Available in target"

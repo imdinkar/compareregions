@@ -1,0 +1,101 @@
+Service,Feature,Status
+AWS Cloud Map,DiscoverInstances operation per account steady rate,"Available in source_region, Not Available in target_region"
+Access Analyzer,Organization level analyzer,"Available in source_region, Not Available in target_region"
+AWS Private Certificate Authority,Number of revoked private certificates per CA,"Available in source_region, Not Available in target_region"
+Amazon Managed Workflows for Apache Airflow,Environments per account per Region,"Available in source_region, Not Available in target_region"
+AWS Amplify,Environment cache artifact size,"Available in source_region, Not Available in target_region"
+Amazon API Gateway,Stage Variable Key Length,"Available in source_region, Not Available in target_region"
+Amazon Connect Application Integrations,Data integration associations per data integration,"Available in source_region, Not Available in target_region"
+AWS AppConfig,Configuration size limit in AWS AppConfig hosted configuration store,Available in both the region
+Application Auto Scaling,Step adjustments per step scaling policy,Available in both the region
+AWS App Mesh,Connected Envoy processes per virtual node,"Available in source_region, Not Available in target_region"
+AWS App Runner,Services,"Available in source_region, Not Available in target_region"
+AWS AppSync,Subscriptions per connection,"Available in source_region, Not Available in target_region"
+Amazon Athena,Active DML queries,"Available in source_region, Not Available in target_region"
+AWS Audit Manager,Custom controls,"Available in source_region, Not Available in target_region"
+Amazon EC2 Auto Scaling,Launch configurations per region,Available in both the region
+AWS Auto Scaling Plans,Scaling plans,"Available in source_region, Not Available in target_region"
+AWS Batch,Submitted state jobs limit,Available in both the region
+Amazon Keyspaces (for Apache Cassandra),Keyspaces per region,"Available in source_region, Not Available in target_region"
+Amazon Chime,Amazon Chime SDK meetings - ListAttendees API burst rate in requests per second,"Available in source_region, Not Available in target_region"
+AWS Cloud9,EC2 development environments for this account,"Available in source_region, Not Available in target_region"
+AWS CloudFormation,Stack instance operations per administrator account,"Available in source_region, Not Available in target_region"
+AWS CloudHSM,Clusters per AWS Region and AWS account,Available in both the region
+AWS CodeBuild,Concurrently running builds for Linux Lambda/2GB environment,"Available in source_region, Not Available in target_region"
+AWS CodeDeploy,Applications associated per account per region,"Available in source_region, Not Available in target_region"
+AWS CodePipeline,Total stages per pipeline,"Available in source_region, Not Available in target_region"
+Amazon Cognito Federated Identities,Rate of UntagResource requests,"Available in source_region, Not Available in target_region"
+Amazon Cognito User Pools,Rate of UserAccountRecovery requests,"Available in source_region, Not Available in target_region"
+Amazon Comprehend,CreateDocumentClassifier throttle limit in transactions per second,"Available in source_region, Not Available in target_region"
+Amazon Connect,Rate of DescribeQueue API requests,"Available in source_region, Not Available in target_region"
+AWS Glue DataBrew,Concurrent jobs per AWS account,"Available in source_region, Not Available in target_region"
+Amazon Data Lifecycle Manager,Policies per Region,Available in both the region
+AWS Database Migration Service (AWS DMS),Certificate count,"Available in source_region, Not Available in target_region"
+ElasticDisasterRecovery,Max source servers in a single Job,Available in both the region
+Amazon DynamoDB,Write throughput limit for DynamoDB Streams (Provisioned mode),"Available in source_region, Not Available in target_region"
+Amazon Elastic Block Store (Amazon EBS),Pending snapshots per account,"Available in source_region, Not Available in target_region"
+Amazon Elastic Compute Cloud (Amazon EC2),Routes per transit gateway,"Available in source_region, Not Available in target_region"
+IPAM,IPAMs per Region,"Available in source_region, Not Available in target_region"
+EC2 Fast Launch,Parallel instance launches,Available in both the region
+Amazon Elastic Container Registry (Amazon ECR),Pull through cache rules per registry,Available in both the region
+Amazon Elastic Kubernetes Service (Amazon EKS),EKS Anywhere Enterprise Subscriptions,"Available in source_region, Not Available in target_region"
+Amazon Elastic File System (EFS),Provisioned throughput,"Available in source_region, Not Available in target_region"
+Elastic Load Balancing (ELB),Certificates per Application Load Balancer,"Available in source_region, Not Available in target_region"
+Amazon EMR,Replenishment rate of AddInstanceFleet calls,"Available in source_region, Not Available in target_region"
+Amazon EMR Serverless,Max concurrent vCPUs per account,"Available in source_region, Not Available in target_region"
+Amazon OpenSearch Service,Instances per domain (T2 instance type),"Available in source_region, Not Available in target_region"
+Amazon EventBridge (CloudWatch Events),Event pattern size,"Available in source_region, Not Available in target_region"
+AWS Fargate,Fargate Spot vCPU resource count,"Available in source_region, Not Available in target_region"
+Amazon Kinesis Data Firehose,Delivery streams,"Available in source_region, Not Available in target_region"
+AWS Fault Injection Service (FIS),Target Subnets for aws:network:disrupt-connectivity,"Available in source_region, Not Available in target_region"
+Amazon Forecast,Maximum number of backtest windows,"Available in source_region, Not Available in target_region"
+Amazon FSx,ONTAP SSD storage capacity,"Available in source_region, Not Available in target_region"
+AWS Glue,Number of crawlers running concurrently per account,"Available in source_region, Not Available in target_region"
+EC2 Image Builder,Components,"Available in source_region, Not Available in target_region"
+Amazon Inspector,Number of Suppression Rules,"Available in source_region, Not Available in target_region"
+AWS IoT Analytics,Number of StartPipelineReprocessing requests,"Available in source_region, Not Available in target_region"
+AWS IoT Core,UpdateThingGroupsForThing API TPS,"Available in source_region, Not Available in target_region"
+AWS IoT TwinMaker,Entities per workspace,"Available in source_region, Not Available in target_region"
+Amazon Interactive Video Service,Stages,"Available in source_region, Not Available in target_region"
+Amazon Interactive Video Service Chat,Rooms,"Available in source_region, Not Available in target_region"
+Amazon Managed Streaming for Kafka (MSK),Number of brokers per account,"Available in source_region, Not Available in target_region"
+Amazon Kinesis Data Streams,Shards per Region,"Available in source_region, Not Available in target_region"
+Amazon Kinesis Video Streams,GetClip fragments,"Available in source_region, Not Available in target_region"
+AWS Key Management Service (AWS KMS),GenerateDataKeyPair (RSA_3072) request rate,"Available in source_region, Not Available in target_region"
+AWS Lambda,Function and layer storage,"Available in source_region, Not Available in target_region"
+AWS License Manager,License configuration associations per resource,"Available in source_region, Not Available in target_region"
+Amazon Lightsail,Static IP addresses,"Available in source_region, Not Available in target_region"
+AWS Elemental MediaConnect,Flows,Available in both the region
+AWS Elemental MediaLive,CDI Channels,"Available in source_region, Not Available in target_region"
+Amazon CloudWatch,Rate of GetMetricData requests,"Available in source_region, Not Available in target_region"
+AWS Network Firewall,Suricata rules string size,Available in both the region
+Amazon CloudWatch Network Monitor,Number of probes per subnet for each monitor,"Available in source_region, Not Available in target_region"
+AWS Outposts,Outpost sites,"Available in source_region, Not Available in target_region"
+Private CA Connector for Active Directory,Rate of ListTagsForResource requests,Available in both the region
+Amazon Personalize,Amount of data for Popularity-Count recipe,"Available in source_region, Not Available in target_region"
+Amazon Pinpoint,Maximum number of active journeys per account,"Available in source_region, Not Available in target_region"
+AWS Resource Access Manager,Number of resource associations,Available in both the region
+Amazon Recycle Bin,Tags per rule,Available in both the region
+Amazon Relational Database Service (Amazon RDS),Data API HTTP request body size,"Available in source_region, Not Available in target_region"
+AWS Migration Hub Refactor Spaces,Applications,"Available in source_region, Not Available in target_region"
+Amazon Rekognition,Transactions per second per account for the Amazon Rekognition Custom Labels operation: UpdateDatasetEntries,"Available in source_region, Not Available in target_region"
+AWS Resilience Hub,Number of resources per application,"Available in source_region, Not Available in target_region"
+AWS Resource Explorer,Non-aggregator Region search monthly quota,Available in both the region
+AWS Resource Groups,Resource groups per account,"Available in source_region, Not Available in target_region"
+IAM Roles Anywhere,Rate of CreateSession requests,"Available in source_region, Not Available in target_region"
+Route 53 Resolver,Resolver rules per AWS Region,Available in both the region
+Amazon SageMaker,Studio CodeEditor Apps running on ml.r6id.large instances,"Available in source_region, Not Available in target_region"
+Amazon EventBridge Schema Registry,DiscoveredSchemas,"Available in source_region, Not Available in target_region"
+AWS Security Hub,Number of automation rules,Available in both the region
+AWS Service Catalog,Products per portfolio,"Available in source_region, Not Available in target_region"
+Service Quotas,Active requests per account per Region,"Available in source_region, Not Available in target_region"
+Amazon Simple Email Service(Amazon SES),Sending quota,"Available in source_region, Not Available in target_region"
+Amazon Simple Notification Service (Amazon SNS),ConfirmSubscription Transactions per Second,"Available in source_region, Not Available in target_region"
+AWS Systems Manager for SAP,Databases per component,"Available in source_region, Not Available in target_region"
+Amazon Textract,GetLendingAnalysis throttle limit in transactions per second,"Available in source_region, Not Available in target_region"
+Amazon Timestream for Managed Influx,Database instances per account,"Available in source_region, Not Available in target_region"
+Amazon Verified Permissions,GetPolicyStore requests per second per Region per account,Available in both the region
+Amazon Virtual Private Cloud (Amazon VPC),Internet gateways per Region,"Available in source_region, Not Available in target_region"
+AWS Well-Architected Tool,Shares per review template,"Available in source_region, Not Available in target_region"
+Amazon WorkSpaces,Directories,"Available in source_region, Not Available in target_region"
+Amazon WorkSpaces Web,Number of UserSettings,"Available in source_region, Not Available in target_region"
